@@ -1,0 +1,95 @@
+00000101N;Simon;Yanez Molina;Limpieza;Apto
+00000102B;Juan Carlos;Fuente Miralles;Administración;No apto
+00000103Y;Jorge;Lara Priego;Administración;No apto
+00000104Y;Eleuterio;Marin Sebastian;Limpieza;No apto
+00000105L;Maximiano;Belmonte Agusti;Servicios;No apto
+00000106N;Alvaro;Cabo Beltran;Administración;Apto
+00000107Z;Brigida;Garces Velasco;Administración;No apto
+00000108H;Juan Manuel;Cazorla Oller;Limpieza;No apto
+00000109M;Socorro;Bayona Hidalgo;Informática;Apto
+00000110M;Rafael;Lopez Cruz;Servicios;No apto
+00000111E;Urbano;Mate Angel;Limpieza;Apto
+00000112M;Adan;Mari Calleja;Informática;Apto
+00000113C;Selena;Canizares Lamas;Limpieza;No apto
+00000114O;David;Campo Cortes;Informática;No apto
+00000115K;Lalo;Lujan Galvez;Informática;Apto
+00000116Y;Liliana;Novoa Frutos;Administración;No apto
+00000117N;Jacinta;Laguna Vega;Servicios;Apto
+00000118A;Amaya;Iglesias Azcona;Limpieza;Apto
+00000119L;Cirino;Roda Lloret;Servicios;Apto
+00000120U;Arsenio;Acevedo Mugica;Informática;Apto
+00000121H;Maria Manuela;Castrillo Juarez;Informática;No apto
+00000122E;Felix;Sala Roma;Informática;No apto
+00000123D;Chelo;Agusti Caparros;Informática;No apto
+00000124W;Carlos;Company Araujo;Informática;No apto
+00000125T;Perlita;Peiro Colomer;Informática;Apto
+00000126D;Tito;Castell Arnaiz;Informática;Apto
+00000127J;Mario;Pastor Arino;Informática;Apto
+00000128J;Trini;Pallares Gallo;Informática;Apto
+00000129M;Isabel;Iborra Calderon;Servicios;Apto
+00000130C;Paulino;Ramos Cortes;Informática;Apto
+00000131H;Angela;Guzman Camara;Administración;Apto
+00000132V;Nereida;Elorza Revilla;Limpieza;No apto
+00000133S;Amador;Escobar Marquez;Informática;Apto
+00000134N;Micaela;Requena Hurtado;Administración;No apto
+00000135U;Juanito;Cuervo Campoy;Servicios;Apto
+00000136P;Roberto;Arias Sosa;Servicios;Apto
+00000137U;Ivan;Flores Segui;Servicios;No apto
+00000138E;Pancho;Mayoral Goni;Administración;Apto
+00000139U;Jacinto;Alvarez Ferrando;Servicios;Apto
+00000140R;Sabas;Moya Lopez;Limpieza;Apto
+00000142H;Pascual;Vergara Pulido;Limpieza;Apto
+00000143O;Iris;Munoz Amoros;Administración;No apto
+00000144T;David;Julian Escalona;Administración;Apto
+00000147I;Luisina;Mir Rubio;Limpieza;No apto
+00000148I;Eloisa;Vidal Carlos;Servicios;Apto
+00000149G;Rogelio;Falcon Iniguez;Informática;Apto
+00000150P;Arsenio;Rubio Abellan;Limpieza;No apto
+00000151P;Aurora;Figueras Pascual;Servicios;Apto
+00000152Z;Tomas;Becerra Murillo;Informática;Apto
+00000153M;Estrella;Mir Casanovas;Informática;Apto
+00000154S;Lola;Mas Vendrell;Administración;Apto
+00000155L;Martin;Real Morera;Informática;Apto
+00000156K;Samuel;Marques Castejon;Informática;Apto
+00000157J;Gregorio;Rivero Pinilla;Informática;No apto
+00000158G;Ines;Davila Mascaro;Servicios;No apto
+00000159Y;Santiago;Abad Mateu;Informática;Apto
+00000160X;Luciano;Gallo Ropero;Limpieza;Apto
+00000161Y;Mireia;Montserrat Sola;Administración;No apto
+00000162D;Vasco;Salamanca Garcia;Administración;No apto
+00000163L;Ariadna;Saenz Domenech;Informática;Apto
+00000164R;Genoveva;Blazquez Luz;Administración;Apto
+00000165B;Aranzazu;Naranjo Bueno;Informática;Apto
+00000166E;Olivia;Gutierrez Menendez;Servicios;No apto
+00000167D;Jafet;Flor Colom;Servicios;No apto
+00000168P;Amador;Arteaga Hierro;Servicios;No apto
+00000169B;Aitana;Beltran Sarabia;Servicios;No apto
+00000170D;Severino;Ferreras Plana;Limpieza;Apto
+00000171C;Ana Belen;Pulido Hervas;Administración;Apto
+00000172E;Eusebio;Adan Campillo;Administración;Apto
+00000173J;Melania;Rodriguez Gilabert;Limpieza;No apto
+00000174R;Gabriel;Villaverde Sobrino;Informática;No apto
+00000175Z;Aureliano;Ibanez Carrion;Informática;No apto
+00000176M;Yago;Canellas Sobrino;Administración;Apto
+00000177S;Guadalupe;Molins Salas;Informática;No apto
+00000178T;Emperatriz;Vargas Roldan;Limpieza;Apto
+00000179D;Paulina;Salmeron Cuenca;Limpieza;Apto
+00000180G;Mar;Taboada Sandoval;Informática;Apto
+00000181H;Juan Antonio;Huertas Lluch;Servicios;Apto
+00000182A;Maria Dolores;Vazquez Tormo;Administración;No apto
+00000183P;Eugenia;Haro Llobet;Informática;No apto
+00000184W;Valerio;Berenguer Macias;Servicios;No apto
+00000186Z;Miguel;Berrocal Chacon;Informática;Apto
+00000187Z;Eutropio;Guardia Pinol;Limpieza;Apto
+00000188R;Joaquina;Corominas Gargallo;Informática;Apto
+00000189I;Bernardo;Ribera Ramon;Informática;No apto
+00000190F;Natalio;Solano Ricart;Informática;Apto
+00000191S;Bernabe;Gabaldon Rivera;Informática;No apto
+00000192O;Roque;Aller Pintor;Informática;No apto
+00000193I;Albina;Aguado Ortiz;Servicios;Apto
+00000194C;Marc;Porta Rius;Informática;No apto
+00000196C;Isidoro;Llamas Ruano;Informática;Apto
+00000197S;Amalia;Andres Porcel;Limpieza;Apto
+00000198Y;Nicodemo;Quiroga Dalmau;Servicios;No apto
+00000199B;Priscila;Solsona Castell;Limpieza;No apto
+00000200C;Alicia;Alcoba Álvarez;Informática;Apto
