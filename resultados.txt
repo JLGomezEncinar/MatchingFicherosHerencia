@@ -92,3 +92,4 @@
 00000197S;Amalia;Andres Porcel;Limpieza;7.5;4.1
 00000198Y;Nicodemo;Quiroga Dalmau;Servicios;8;5.6
 00000199B;Priscila;Solsona Castell;Limpieza;8.6;5.1
+

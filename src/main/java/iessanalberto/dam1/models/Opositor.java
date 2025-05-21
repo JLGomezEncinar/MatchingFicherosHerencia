@@ -6,7 +6,12 @@ public class Opositor {
     protected String apellidos;
     protected String especialidad;
 
-    public Opositor() {
+    public Opositor(String linea) {
+        String [] lineaTroceada = linea.split(";");
+        this.dni = lineaTroceada[0];
+        this.nombre = lineaTroceada[1];
+        this.apellidos = lineaTroceada[2];
+        this.especialidad = lineaTroceada[3];
     }
 
     public String getDni() {
